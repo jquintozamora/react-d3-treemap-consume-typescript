@@ -13,16 +13,16 @@ This is a sample project to show how to use the npm package ["react-d3-treemap"]
 1. Get the url of your forked project.
     - Go to https://github.com/username/react-d3-treemap-consume-typescript
 2. Click on **"Clone or download"** and Copy to clipboard the url ending on .git.
-3. Open your command line and go to your directoy
-*You don't need to create a specific folder for the project, it will be created by git*
+3. Open your command line and go to your directory.
+*You don't need to create a specific folder for the project, it will be created by git.*
 4. Clone your forked repo on your machine:
 ```
 $ git clone https://github.com/username/react-d3-treemap-consume-typescript
 ```
-*Note: That will create a new folder called react-d3-treemap-consume-typescript with all the files in.*
+*Note: That will create a new folder called react-d3-treemap-consume-typescript with all the files.*
 
 ### Install Project dependencies
-As we have yarn, instead of using npm i to install all our dependencies in our node_modules folder, we will use just yarn.
+As we have yarn, instead of using `npm i` to install all our dependencies in our node_modules folder, we will use just yarn.
 *Note: you need to be sure your are inside the project folder because yarn will look for package.json file.*
 ```
 $ cd react-d3-treemap-consume-typescript
