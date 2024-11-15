@@ -2,11 +2,15 @@
     "compilerOptions": {
         "target": "es5",
         "module": "commonjs",
-        "jsx": "react",
-        "sourceMap": true,
-        "alwaysStrict": true,
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
         "declaration": false,
-        "noImplicitAny": true,
+        "noImplicitAny": false,
+        "removeComments": true,
+        "noLib": false,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "jsx": "react",
         "typeRoots": [
             "./node_modules/@types"
         ],
